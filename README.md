@@ -165,5 +165,8 @@ This project demonstrates:
 * Deployment and sharing workflow
 
 ---
+<img width="1914" height="965" alt="Screenshot 2026-05-02 120940" src="https://github.com/user-attachments/assets/c17506e0-38f4-43cc-808d-9604f3dc0972" />
+<img width="1891" height="966" alt="Screenshot 2026-05-02 120900" src="https://github.com/user-attachments/assets/fcbaddc9-528b-42c0-8a26-4352fd1225b3" />
+
 
 
